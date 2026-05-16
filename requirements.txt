@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pymongo
+chromadb
+sentence-transformers
+pypdf
+langchain
+langchain-community
+passlib[bcrypt]
+python-jose
+groq
+python-dotenv
